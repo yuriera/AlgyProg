@@ -8,7 +8,7 @@ edad = int(input("Cuál es tu edad: "))
 
 print("HOLA URSO")
 
-if edad > 18: 
+if edad < 18: 
     print("Wow eres mayor de edad\n")
 else:
     print("Owww... eres pequeñito\n")
