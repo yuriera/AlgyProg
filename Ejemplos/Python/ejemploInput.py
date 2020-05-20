@@ -14,5 +14,5 @@ else:
 
 print("Este es un cambio menor")
 
-while (edad > 18):
+while (edad != 18):
     print("Es increible")
