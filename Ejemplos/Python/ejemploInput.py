@@ -13,3 +13,6 @@ else:
     print("Owww... eres pequeñito\n")
 
 print("Este es un cambio menor")
+
+while (edad > 18):
+    print("Es increible")
